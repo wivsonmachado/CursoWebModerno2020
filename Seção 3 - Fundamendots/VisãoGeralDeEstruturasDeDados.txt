@@ -3,3 +3,45 @@
 Estruturas de dados é diferente de dados.
 
 Estruturas de dados visa organizar e administrar os dados.
+
+Listas
+
+    1. João
+    2. Ana
+    3. Maria
+    4. Ricardo
+
+Fila
+    Conceito FiFo (First in, First out)
+
+Pilha
+    Conceito LiFo (Last in, First out)
+
+Árvore
+    Estruturas de pastas do explores
+
+Tabelas
+    Excel
+
+Estruturas de dados básicas
+
+    inteiro
+    real
+    letra
+    boolean
+
+Variaveis e Constantes
+
+Rotula um dado para o algoritmo manipular dentro do codigo
+
+variaveis podem ser alteradas
+constantes não podem ser alteradas
+
+Operações
+
+O dado pode ser usado para fazer operações
+
+    Atribuir o dado à uma variavel
+    Operações aritimeticas
+    Operações relacionais
+    Operações logicas
