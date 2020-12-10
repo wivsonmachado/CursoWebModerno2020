@@ -2,6 +2,9 @@ var a = 3 //variavel "a" recebe o valor 3
 
 //Nomear as coisas de acordo com o que está sendo feito
 
+//Evite nomes genericos e siglas
+// A escolha de bons nomes é fundamental para o codigo
+
 let b = 4 //variavel "b" recebe o valor 4
 
 //Por regra geral, crie variaveis usando o let, evite o uso do var, o let é uma forma mais moderna de criar variaveis.

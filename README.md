@@ -7,3 +7,4 @@ Repositório do curso Web Moderno Completo 2020 - Cod3r/Udemy
 * Organização do código JavaScript
 * Comentários dentro do código
 * Introdução à variaveis e constantes
+* Tipagem
