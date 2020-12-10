@@ -1,0 +1,5 @@
+### Visão geral de estruturas de dados
+
+Estruturas de dados é diferente de dados.
+
+Estruturas de dados visa organizar e administrar os dados.
