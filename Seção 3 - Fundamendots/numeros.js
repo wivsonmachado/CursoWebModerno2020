@@ -27,8 +27,15 @@ console.log(typeof Number)
 //Cuidados com tipo numero
 
 console.log(7 / 0) // retorna tipo infinito
+
 console.log("10" / 2) // cuidado com string convertendo pra numero e fazendo operação matematica.
+
+console.log("10" + 2) // Quando tenta somar um numero com o tipo string e um numeral a string tem preferencia e ao invés de somar irá concatenar
+
 console.log('Show!' * 2) // Retorna um NaN - Not a Number
+
 console.log(0.1 + 0.7) // gera uma impresição ao trabalhar com ponto flutuante, IEEE padrão para precisão do ponto flutuante
+
 //console.log(10.toFixed(2)) não é possivel chamar o literal diretamente
+
 console.log((10.345).toFixed(2))//numero entre parenteses e chamar a função agregada

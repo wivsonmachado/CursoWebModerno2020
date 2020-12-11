@@ -10,3 +10,4 @@ Repositório do curso Web Moderno Completo 2020 - Cod3r/Udemy
 * Tipagem
 * Números
 * Math
+* Strings
