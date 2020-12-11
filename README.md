@@ -11,3 +11,4 @@ Repositório do curso Web Moderno Completo 2020 - Cod3r/Udemy
 * Números
 * Math
 * Strings
+* Template String
