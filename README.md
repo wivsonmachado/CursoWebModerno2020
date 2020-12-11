@@ -9,3 +9,4 @@ Repositório do curso Web Moderno Completo 2020 - Cod3r/Udemy
 * Introdução à variaveis e constantes
 * Tipagem
 * Números
+* Math
