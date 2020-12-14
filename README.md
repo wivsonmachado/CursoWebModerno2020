@@ -19,3 +19,4 @@ Repositório do curso Web Moderno Completo 2020 - Cod3r/Udemy
 * Funções
 * Declaração de variaveis com VAR
 * Declaração de variaveis com LET
+* Comparações entre VAR e LET em um looping
