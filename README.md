@@ -20,3 +20,4 @@ Repositório do curso Web Moderno Completo 2020 - Cod3r/Udemy
 * Declaração de variaveis com VAR
 * Declaração de variaveis com LET
 * Comparações entre VAR e LET em um looping
+* Conceito de Hoisting
