@@ -17,3 +17,4 @@ Repositório do curso Web Moderno Completo 2020 - Cod3r/Udemy
 * Objetos
 * Null e Undefined
 * Funções
+* Declaração de variaveis com VAR
