@@ -16,3 +16,4 @@ Repositório do curso Web Moderno Completo 2020 - Cod3r/Udemy
 * Arrays
 * Objetos
 * Null e Undefined
+* Funções
