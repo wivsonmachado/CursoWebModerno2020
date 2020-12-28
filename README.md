@@ -22,3 +22,4 @@ Repositório do curso Web Moderno Completo 2020 - Cod3r/Udemy
 * Comparações entre VAR e LET em um looping
 * Conceito de Hoisting
 * Função vs Objeto
+* Par Nome/Valor
