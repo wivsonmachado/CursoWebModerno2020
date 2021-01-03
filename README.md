@@ -24,3 +24,4 @@ Repositório do curso Web Moderno Completo 2020 - Cod3r/Udemy
 * Função vs Objeto
 * Par Nome/Valor
 * Notação Ponto
+* Operadores: Atribuição
