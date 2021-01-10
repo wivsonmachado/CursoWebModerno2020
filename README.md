@@ -31,3 +31,4 @@ Repositório do curso Web Moderno Completo 2020 - Cod3r/Udemy
 * Operadores: Lógicos
 * Operadores: Unários
 * Operadores: Ternários
+* Tratamento de erros: try, catch, throw
