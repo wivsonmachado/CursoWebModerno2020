@@ -28,3 +28,4 @@ Repositório do curso Web Moderno Completo 2020 - Cod3r/Udemy
 * Operadores: Destructuring
 * Operadores: Aritiméticos
 * Operadores: Relacionais
+* Operadores: Lógicos
