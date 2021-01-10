@@ -25,3 +25,4 @@ Repositório do curso Web Moderno Completo 2020 - Cod3r/Udemy
 * Par Nome/Valor
 * Notação Ponto
 * Operadores: Atribuição
+* Operadores: Destructuring
