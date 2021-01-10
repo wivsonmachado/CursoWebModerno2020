@@ -29,3 +29,4 @@ Repositório do curso Web Moderno Completo 2020 - Cod3r/Udemy
 * Operadores: Aritiméticos
 * Operadores: Relacionais
 * Operadores: Lógicos
+* Operadores: Unários
